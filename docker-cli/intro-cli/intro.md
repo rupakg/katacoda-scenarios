@@ -1,3 +1,6 @@
-Welcome to the scenarios for the course "Introduction to Docker CLI"
+Welcome to the scenario "Introduction to Docker CLI"
 
-[intro.md]
+## What will we learn
+
+* Check the version
+* List the commands

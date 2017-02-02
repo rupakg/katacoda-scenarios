@@ -4,10 +4,16 @@
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
-    "steps": [{
-      "title": "Step 1 - Check Version",
-      "text": "step1.md"
-    }],
+    "steps": [
+      {
+        "title": "Step 1 - Check Version",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2 - Get Help",
+        "text": "step2.md"
+      }      
+    ],
     "intro": {
       "text": "intro.md",
       "credits": ""

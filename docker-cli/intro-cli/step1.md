@@ -1,5 +1,3 @@
-We will be learning about the Docker CLI in detail. 
-
 
 ## Task
 

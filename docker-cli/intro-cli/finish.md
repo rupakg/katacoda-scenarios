@@ -1,1 +1,1 @@
-You've completed your Intro to Docker CLI scenario!
+You've completed your "Introduction to Docker CLI" scenario!
