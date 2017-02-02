@@ -1,0 +1,12 @@
+{
+  "title": "Learning Docker by Rupak Ganguly",
+  "icon": "fa-docker",
+  "description": "Learn Docker by practicing these exercises.",
+  "courses": [
+    {
+      "course_id": "intro-cli",
+      "title": "Introduction to the Docker CLI",
+      "description": "Learn how to start using the CLI"
+    }
+  ]
+}
