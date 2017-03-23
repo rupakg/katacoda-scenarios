@@ -1,0 +1,12 @@
+{
+  "title": "Learn Serverless Framework",
+  "icon": "fa-bolt",
+  "description": "Learn to create and run a serverless app.",
+  "courses": [
+    {
+      "course_id": "build-app",
+      "title": "Build and run a serverless application",
+      "description": "Install the Serverless Framework, and then build & run a serverless application."
+    }
+  ]
+}

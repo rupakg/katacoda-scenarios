@@ -1,0 +1,40 @@
+{
+  "title": "Learn Serverless Framework",
+  "description": "Learn to create and run a serverless app.",
+  "difficulty": "beginner",
+  "time": "5 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Install the Serverless Framework",
+        "text": "step1.md"
+      },
+      {
+        "title": "Create the application",
+        "text": "step2.md"
+      },
+      {
+        "title": "Prepare for deployment",
+        "text": "step3.md"
+      },
+      {
+        "title": "Deploy and run the application",
+        "text": "step4.md"
+      }                    
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mWe should have a freshly brewed work environment ready for you.\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "node6"
+  }
+}
